@@ -1,0 +1,139 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    color: #333;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 20px 0;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+#timer {
+    font-size: 20px;
+    margin-top: 20px;
+    color: crimson;
+    font-weight: 500;
+}
+
+
+header{
+    padding: 10px;
+    background-color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 600px; */
+    text-align: center;
+}
+
+h1, h2 {
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    /* color: #007BFF; */
+}
+
+a:hover {
+    /* text-decoration: underline; */
+}
+
+.anat{
+    color:#007BFF;
+    font-size:20px;
+    letter-spacing: 5px;
+    position:relative;
+    font-weight:;
+    text-shadow:1px 1px 1px #007BFF,
+    1px 1px 1px #007BFF,
+    1px 1px 1px #007BFF,
+    1px 1px 1px #007BFF,
+    1px 1px 1px #007BFF;
+}
+
+
+.bcm{
+    color:#dd4124;
+    font-size:20px;
+    letter-spacing: 5px;
+    position:relative;
+    font-weight:;
+    text-shadow:1px 1px 1px #dd4124,
+    1px 1px 1px #dd4124,
+    1px 1px 1px #dd4124,
+    1px 1px 1px #dd4124,
+    1px 1px 1px #dd4124;
+}
+
+.physio{
+    color:#5b5ea6;
+    font-size:20px;
+    letter-spacing: 5px;
+    position:relative;
+    font-weight:;
+    text-shadow:1px 1px 1px #5b5ea6,
+    1px 1px 1px #5b5ea6,
+    1px 1px 1px #5b5ea6,
+    1px 1px 1px #5b5ea6,
+    1px 1px 1px #5b5ea6;
+}
+
+#questions{
+  color: #000;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+#correct-answers{
+  color: #000;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+footer{
+  text-align: center;
+  font-weight: 450;
+  background-color: #fff;
+  padding-bottom: 7px;
+}
